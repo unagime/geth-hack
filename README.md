@@ -6,7 +6,7 @@ centos
 yum install masscan
 ubuntu
 sudo apt-get install masscan
-##### scan 8545 port masscan
+##### first scan 8545 port masscan
 sh masscan.sh
 ##### scan finish and start.py
 python start.py
